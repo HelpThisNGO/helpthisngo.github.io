@@ -1,7 +1,7 @@
-Pure CSS Layout Examples
+Help this NGO 
 ========================
 
-Layout examples using [Pure CSS][pure] compiled from the [pure-site][] project.
+Is the Platform collaborative to connect Volunteers with NGO.
 
 [pure]: http://purecss.io/
 [pure-site]: https://github.com/yahoo/pure-site
