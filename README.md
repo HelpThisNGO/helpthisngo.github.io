@@ -9,7 +9,7 @@
 
 
 ## Contribute
-We would love for you to contribute to **Colletive**, check the ``LICENSE`` file for more info.
+We would love for you to contribute to **HelpThisNGO**, check the ``LICENSE`` file for more info.
 
 ## Meta
 Vinicius Torves – [@vtorves](https://twitter.com/vtorves) – vinicius@torves.com
